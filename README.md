@@ -6,8 +6,7 @@
    “role” : “FullStack Developer | MERN & PERN Stacks”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-<!--       "Resume"   : "pendiente", -->
+      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/",
      }
  }
 ```
@@ -61,15 +60,15 @@
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
 - TypeScript / Heroku / 
-- FullStack Bootcamp [Soy Henry] <a href="https://www.soyhenry.com/" target="_blank">Soy Heny
-- Currently we're working with my team in our final project [InmobilApp] to the bootcamp Soy Henry. 📚 💻
+- FullStack Bootcamp [Soy Henry] <a href="https://www.soyhenry.com/" target="_blank">Soy Henry</a>
+- Currently we're working with my team in our final project [<a href="https://github.com/InmobilApp" target="_blank">InmobilApp</a>] for the bootcamp Soy Henry. 📚 💻
 
 ### Github Stats:
 
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babaquero07&theme=radical&card_width=450em)](https://github.com/babaquero07/babaquero07/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=babaquero07o&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=babaquero07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
 
