@@ -60,7 +60,7 @@
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
 - TypeScript / Heroku / 
-- FullStack Bootcamp [Soy Henry] <a href="https://www.soyhenry.com/" target="_blank">Soy Henry</a>
+- FullStack Bootcamp <a href="https://www.soyhenry.com/" target="_blank">Soy Henry</a>
 - Currently we're working with my team in our final project [<a href="https://github.com/InmobilApp" target="_blank">InmobilApp</a>] for the bootcamp Soy Henry. 📚 💻
 
 ### Github Stats:
