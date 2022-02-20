@@ -6,7 +6,7 @@
    “role” : “FullStack Developer | MERN & PERN Stacks”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/",
+      "Linkedin" : "https://www.linkedin.com/in/babaquero07/",
      }
  }
 ```
