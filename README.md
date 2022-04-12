@@ -57,8 +57,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- FullStack Bootcamp <a href="https://www.soyhenry.com/" target="_blank">Soy Henry</a>
-- Currently we're working with my team in our final project [<a href="https://github.com/E-commerce-pf" target="_blank">Everyone's Store</a>] [<a href="https://respaldo-everyones-store.vercel.app/" target="_blank">Deploy</a>] for the bootcamp Soy Henry. 📚 💻
+- Python, FastAPI, Docker. Linux 👨🏼‍💻
 
 ### Github Stats:
 
