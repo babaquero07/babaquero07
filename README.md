@@ -57,7 +57,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- Python, FastAPI, Docker. Linux 👨🏼‍💻
+- Next.js, Python, FastAPI, Docker. Linux 👨🏼‍💻
 
 ### Github Stats:
 
