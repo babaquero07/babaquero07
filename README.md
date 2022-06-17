@@ -57,7 +57,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- Next.js, Python, FastAPI, Docker 👨🏼‍💻
+- Vue.js 3, Prisma, Docker  👨🏼‍💻
 
 ### Github Stats:
 
