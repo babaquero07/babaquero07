@@ -1,7 +1,7 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { “name” : “Brayan Alexander Baquero”,
+ { “name” : “Alexander Baquero”,
    “role” : “FullStack Developer | MERN & MEVN Stacks”,
    “data” : 
      { 
@@ -59,7 +59,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- Docker, GitHub Actions  👨🏼‍💻
+- Design patterns  👨🏼‍💻
 
 ### Programming Stats: 👨🏼‍💻
 [![wakatime](https://wakatime.com/badge/user/4b38f971-4c32-4313-a652-cd8a926b4f0f.svg)](https://wakatime.com/@4b38f971-4c32-4313-a652-cd8a926b4f0f)
