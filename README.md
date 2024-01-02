@@ -59,7 +59,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- Design patterns  👨🏼‍💻
+- NEXT JS 👨🏼‍💻
 
 ### Programming Stats: 👨🏼‍💻
 [![wakatime](https://wakatime.com/badge/user/4b38f971-4c32-4313-a652-cd8a926b4f0f.svg)](https://wakatime.com/@4b38f971-4c32-4313-a652-cd8a926b4f0f)
