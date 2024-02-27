@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Alexander Baquero”,
-   “role” : “FullStack Developer | MERN & MEVN Stacks”,
+   “role” : “Web developer | React | Next.js | Vue | TypeScript | Node JS | Express | MongoDB | PostgreSQL”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/babaquero07/",
