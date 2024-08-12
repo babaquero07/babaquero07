@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Alexander Baquero”,
-   “role” : “Web developer | React | Next.js | Vue | TypeScript | Node JS | Express | MongoDB | PostgreSQL”,
+   “role” : “Web developer | React | Next.js | Vue | TypeScript | Node JS | Express | MySQL | PostgreSQL | MongoDB”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/babaquero07/",
