@@ -10,6 +10,8 @@
  }
 ```
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babaquero07&label=Profile%20views&color=0e75b6&style=flat" alt="babaquero07" /> </p>
+
 <h3>
   🚀 Stacks
 </h3> 
