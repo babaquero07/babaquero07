@@ -56,7 +56,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- [NEST](https://www.udemy.com/course/nest-framework/) 👨🏼‍💻
+- [Java & Spring Boot](https://www.udemy.com/course/master-completo-java-de-cero-a-experto) 👨🏼‍💻
 
 ### Programming Stats: 👨🏼‍💻
 [![wakatime](https://wakatime.com/badge/user/4b38f971-4c32-4313-a652-cd8a926b4f0f.svg)](https://wakatime.com/@4b38f971-4c32-4313-a652-cd8a926b4f0f)
