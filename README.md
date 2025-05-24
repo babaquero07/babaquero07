@@ -56,7 +56,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- [React Native CLI: Aplicaciones nativas para IOS y Android](https://www.udemy.com/course/curso-golang](https://www.udemy.com/course/react-native-fh/) 👨🏼‍💻
+- [React Native CLI: Aplicaciones nativas para IOS y Android](https://www.udemy.com/course/react-native-fh/) 👨🏼‍💻
 
 ### Programming Stats: 👨🏼‍💻
 [![wakatime](https://wakatime.com/badge/user/4b38f971-4c32-4313-a652-cd8a926b4f0f.svg)](https://wakatime.com/@4b38f971-4c32-4313-a652-cd8a926b4f0f)
