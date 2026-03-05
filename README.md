@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Alexander Baquero”,
-   “role” : “Web developer | React | Next.js | Vue | TypeScript | Node JS | Express | MySQL | PostgreSQL | MongoDB”,
+   “role” : “Software Developer | Frontend | Backend | SQL/NoSQL | TypeScript | Java |  GCP”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/babaquero07/",
@@ -56,7 +56,7 @@
 
 ### 👨🏼‍💻 I'm currently learning... / Last Projects
 
-- [React Native CLI: Aplicaciones nativas para IOS y Android](https://www.udemy.com/course/react-native-fh/) 👨🏼‍💻
+- [Java: Spring Boot - Guía definitiva](https://www.udemy.com/course/java-spring-boot-guia-definitiva/) 👨🏼‍💻
 
 ### Programming Stats: 👨🏼‍💻
 [![wakatime](https://wakatime.com/badge/user/4b38f971-4c32-4313-a652-cd8a926b4f0f.svg)](https://wakatime.com/@4b38f971-4c32-4313-a652-cd8a926b4f0f)
